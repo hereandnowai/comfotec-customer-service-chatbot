@@ -1,0 +1,8 @@
+{
+  "name": "Comfotec Customer Service Chatbot",
+  "description": "",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
